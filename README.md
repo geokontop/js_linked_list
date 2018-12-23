@@ -1,4 +1,4 @@
-# Hash table stracture in javascript
+# Linked list stracture in javascript
 Simple linked list functionality in javascript
 
 
