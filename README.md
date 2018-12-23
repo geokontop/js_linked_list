@@ -1,4 +1,4 @@
-# Linked list stracture in javascript
+# Linked list structure in javascript
 Simple linked list functionality in javascript
 
 
